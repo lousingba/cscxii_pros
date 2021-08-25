@@ -1,3 +1,4 @@
+//Friend function - This program tries to explain the inner working of accesses specifiers and the capabilities of a friend function.
 #include<iostream>
 using namespace std;
 
